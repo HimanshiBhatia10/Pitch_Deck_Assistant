@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pitch-Deck Analyzer</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style_.css') }}">
+</head>
+<body>
+    <header class="header">
+        <a href="#" class="logo"><img src="{{ url_for('static', filename='images/Untitled design (19)-Photoroom.png-Photoroom.png') }}" alt="Logo">
+        </a>
+        <nav class="navbar">
+            <a href="#" class="active">Home</a>
+            <a href="#output">Output</a>
+            <a href="#">About</a>
+            <a href="#">Contact</a>
+        </nav>
+    </header>
+    <section class="home">
+        <div class="home-content">
+            <div class="row">
+                <div class="left-section padd-15">
+                    <img src="{{ url_for('static', filename='images/Untitled design (24).png') }}" alt="Design">
+                </div>
+                <div class="right-section padd-15">
+                    <form id="upload-form" enctype="multipart/form-data">
+                        <h1>Pitch-Deck Analyzer</h1>
+                        <h3>Please, Submit your pitch-deck by clicking on Upload:</h3>
+                        <div class="btn-box">
+                            <input type="file" id="pdfFile" name="pdfFile" accept=".pdf" multiple>
+                            <span id="file-info">No files selected</span>
+                            <button type="button" id="upload-btn" class="upload-btn"><b>Upload</b></button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="output" id="output">
+        <div class="Pitch_deck_name" id="Pitch_deck_name"></div>
+        <h2>Summary</h2>
+        <div id="summary"></div>
+        <div class="controls">
+            <button id="prev" class="styled-button" disabled>Previous</button>
+            <button id="next" class="styled-button" disabled>Next</button>
+        </div>
+    </section>
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>

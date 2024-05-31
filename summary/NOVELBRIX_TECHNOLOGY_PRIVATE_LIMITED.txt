@@ -1,0 +1,79 @@
+**Introduction:**
+
+* NOVELBRIX TECHNOLOGY is a tech startup working to improve healthcare appointment scheduling.
+
+**Problem:**
+
+* Inefficiencies in appointment scheduling create barriers to accessible healthcare.
+* Fragmented booking experience makes it difficult for patients to find suitable slots.
+* Inequitable access to healthcare prevents patients from receiving timely care.
+* Clinic operations are hindered by bottlenecks and suboptimal resource utilization.
+
+**Solution: CareBook**
+
+* Centralized appointment availability data empowers patients to make informed decisions.
+* Comprehensive clinic management system optimizes scheduling, reduces no-shows, and improves resource utilization.
+* Promotes equitable access to healthcare by making appointment booking accessible to all patients.
+
+**Offerings:**
+
+* CareBook mobile application
+* CareBook for clinics (clinic management system)
+
+**Unique Selling Point:**
+
+* Equitability and accessibility for all patients.
+
+**Value Proposition:**
+
+* Transparency and trust
+* Time efficiency
+* Enhanced health equity
+* Efficiency and quality care
+
+**Target Market:**
+
+* Patients seeking healthcare accessibility
+* Busy professionals
+* Parents and caregivers
+* Telemedicine users
+* Healthcare administrators and clinic staff
+
+**Market Size:**
+
+* Digital healthcare in India: $524.97 Bn (TAM)
+* Digital health: $233.5 Bn (global, expected to grow at 15% CAGR)
+
+**Competitors:**
+
+* Zocdoc: Limited real-time updates
+* Doctolib: Geographical focus
+* Practo: Information overload
+
+**Growth Plan:**
+
+* Enhanced product development
+* Market research and expansion
+* Scalable technology infrastructure
+* Optimized marketing and branding
+
+**Revenue Model:**
+
+* Subscription-based model
+* Transaction fees
+* Freemium model
+* Telemedicine integration fees
+
+**Fund Utilization:**
+
+* Research and development: Rs. 3,00,000
+* Tech and mobile application development: Rs. 5,00,000
+* New software purchase: Rs. 4,00,000
+* Testing and trial cost: Rs. 1,00,000
+* Pre-development marketing and sales: Rs. 3,00,000
+* Manpower cost: Rs. 4,00,000
+
+**Team:**
+
+* Tushar Kanta Mohanty (Director): Management, leadership.
+* Soumya Ranjan Behera (Director): Strategic thinking, stakeholder trust.

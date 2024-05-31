@@ -1,0 +1,342 @@
+
+NOVELBRIX TECHNOLOGY PRIVATE LIMITED
+
+
+
+
+
+
+
+W W W . C A R E B O O K . I N
+
+About Us.
+
+
+
+
+
+
+
+
+NOVELBRIX TECHNOLOGY is a forward-thinking startup committed to addressing the persistent challenges within the healthcare industry. In a rapidly evolving world, we recognize the pressing need to modernize and streamline the process of scheduling medical appointments. The existing inefficiencies create barriers that hinder patients' access to timely and quality healthcare, driving our determination to innovate and bring about transformative change.
+
+CareBook is the brainchild of NOVELBRIX TECHNOLOGY, conceived to be the definitive solution to the inefficiencies plaguing healthcare appointment scheduling.
+
+CareBook is designed to centralize appointment availability data, providing real-time information to patients. This empowers patients to make informed decisions regarding their healthcare, aligning appointments with their schedules and medical needs. Simultaneously, CareBook empowers clinics and doctors with a comprehensive clinic management system, optimizing scheduling, reducing no-shows, and improving resource utilization.
+
+
+
+
+
+
+
+
+MISSION VISION
+
+MISSION
+We are on a mission to eliminate barriers and enhance accessibility to healthcare services. Our goal is to create intuitive, user-friendly platforms that enable individuals to seamlessly connect with clinics and healthcare providers, ensuring timely and convenient access to medical care.
+
+VISION
+Our vision is to empower a healthier world by revolutionizing healthcare connectivity. We aspire to create a future where every  individual,  regardless  of  their  circumstances,  has effortless  access  to  timely,  quality  healthcare.  Through innovative technologies and a user-centric approach, we envision  a  healthcare  ecosystem  that  is  interconnected, efficient, and prioritizes the well-being and convenience of all
+
+PROBLEMS
+
+INEFFICIENCIES IN APPOINTMENT SCHEDULING:
+The traditional healthcare scheduling process is inefficient, leading to long waiting times and frustrating paperwork for patients.
+FRAGMENTED BOOKING EXPERIENCE:
+The current healthcare system lacks a centralized platform, forcing patients to navigate multiple channels to find suitable appointment slots.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INEQUITABLE ACCESS TO HEALTHCARE:
+Patients, especially in remote areas or with limited mobility, face challenges in securing medical appointments, exacerbating health inequalities.
+CLINIC OPERATION BOTTLENECKS:
+The existing system creates bottlenecks in clinic operations due to manual processes and suboptimal resource utilization.
+
+Solution
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Real-time Availability for Informed Decisions:
+CareBook centralizes appointment
+availability data from various clinics and doctors, ensuring patients have real-time information. This empowers patients to make informed decisions about their healthcare
+Efficient Clinic Management and Patient Flow:
+CareBook offers a comprehensive clinic
+management system that optimizes appointment scheduling, reduces no-shows, and improves resource utilization. The platform's features enable clinics to efficiently manage patient flow, leading to enhanced operational efficiency and the ability to provide high-quality care to patients.
+Promotion of Equitable Access to Healthcare:
+CareBook takes a step further in promoting
+equitable access to healthcare by allowing patients, regardless of their location or mobility, to easily find and book appointments through the platform. It ensures every individual has timely access to the healthcare they deserve, thereby reducing disparities in healthcare access.
+
+Our Offerings
+We are offering:-
+
+CareBook (Mobile Application)
+
+
+
+CareBook - Gateway to Hassle-free Healthcare Scheduling
+
+Real-Time Convenience:
+CareBook provides real-time appointment availability, empowering patients to make informed healthcare decisions promptly and hassle- free.
+
+Streamlined Clinic Operations:
+By optimizing appointment scheduling and reducing no-shows, CareBook enhances clinic efficiency and resource utilization, ensuring a seamless healthcare experience for both clinics and patients.
+
+
+
+UNIQUE SELLING POINT (USP)
+Equitable Access for All:
+CareBook promotes healthcare inclusivity, enabling patients, irrespective of their location or mobility, to easily find and book appointments. This dedication to inclusivity aligns with our mission of ensuring timely healthcare access for every individual.
+
+Value
+Proposition
+
+
+
+
+
+Transparency and Trust:
+We aim to build trust by providing clear, accurate, and real-time information to patients, enabling them to make well-informed healthcare decisions.
+
+
+Time Efficiency:
+CareBook saves patients time by offering real-time appointment availability and a simplified booking process, reducing the waiting time
+
+
+Enhanced Health Equity:
+CareBook bridges the healthcare access gap by ensuring that patients, including those in remote areas or with limited mobility
+
+
+Efficiency and Quality Care:
+By  optimizing  clinic  operations  and  resource utilization, CareBook empowers clinics to efficiently manage patient flow, reduce no-shows
+
+Target
+Market
+
+
+
+
+
+
+
+
+
+
+
+We target a diverse market seeking a more efficient, accessible, and patient-centric healthcare scheduling solution.
+01     02     03
+
+Patients Seeking Healthcare Accessibility
+&
+Busy Professionals and Working Individuals
+
+Parents and Caregivers &
+Telemedicine Users
+Healthcare Administrators and Clinic Staff
+& Healthcare Providers and
+Clinics
+
+
+
+
+Size the
+Market
+DIGITAL HEALTHCARE:-
+The digital healthcare market in India was valued at INR
+524.97 Bn in 2021. It is expected to reach INR 2,528.69 Bn by 2027, expanding at a CAGR of 28.50% during the 2022 - 2027 period.
+
+HEALTH TECH:-
+Global market size for digital health surpassed USD 233.5 billion in 2022 and is set to grow at 15% CAGR through 2032 attributed to the rising adoption of smartphones, tablets, and other mobile platforms.
+
+
+$ 524.97 Bn
+
+Total Available Market (TAM)
+
+SOURCE
+https://www.researchandmarkets.com/reports/5774605/digital-healthcare-market-in- india#:~:text=The%20digital%20healthcare%20market%20in,during%20the%202022%20%2D%202027%20period.- https://www.gminsights.com/industry-analysis/digital-health- market#:~:text=What%20is%20the%20digital%20health,tablets%2C%20and%20other%20mobile%20platforms.
+
+Competitors
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Zocdoc
+COMPETITIVE ANALYSIS
+Zocdoc:
+Doctolib
+Practo
+Lack of Real-Time Updates: Real-time appointment availability information is not always up-to-date, causing potential inconvenience for users.
+Doctolib:
+Geographical Focus: Its primary focus on the European market limits its availability and applicability in other regions.
+Practo:
+Information Overload: The multitude of features and information may overwhelm users, making it less intuitive
+
+
+
+
+
+
+
+
+
+AIM TO SCALE UP
+Enhanced Product Development: We gather user feedback and insights to identify areas for improvement and new features that enhance the user experience.
+Market Research and Expansion: We conduct extensive market research to identify untapped markets and regions where CareBook can make a significant impact.
+
+
+
+
+
+Scalable Technology Infrastructure:
+We invest in a robust and scalable technological   infrastructure   to accommodate a growing user base and increased usage of the platform.
+
+
+Optimized Marketing and Branding:
+We  develop  a  comprehensive marketing strategy focused on building  brand  awareness  and showcasing  the  unique  value proposition of CareBook.
+
+Revenue Model
+
+
+
+Subscription-based Model: We offer tiered subscription plans for users, providing varying levels of access to features and services based on their subscription level (e.g., basic, premium, enterprise).
+
+Transaction Fees: We charge a small transaction fee for each appointment booked through the platform.
+
+Freemium Model: We offer a free version of CareBook with basic features and limited access.
+
+Telemedicine  Integration  Fees:  We  integrate  telemedicine services into the platform and charge healthcare providers a fee for utilizing this feature
+
+FUND UTILIZATION
+
+
+
+
+NAME OF STARTUP      NOVELBRIX TECHNOLOGY
+PRIVATE LIMITED
+
+
+FUNDING SCHEME      STARTUP INDIA SEED FUND SCHEME
+
+
+FUNDING TYPE        SEED FUND GRANT
+
+
+TOTAL FUND REQUIRED   Rs.20,00,000
+
+
+
+TIME LINE FOR FUND UTILIZATION
+December 23 - April 24
+
+Milestone Projection
+
+
+
+
+
+
+
+
+Head                          Friday, December 01,
+2023
+Monday, January 01,
+2024
+Thursday, February 01,
+2024
+Friday, March 01, 2024  Monday, April 01, 2024  Total
+
+
+Research and Development and Market Analysis of (Hospitals & Clinics)
+1,00,000             80,000              70,000               50,000             -                 3,00,000
+Tech & Mobile Application Development   1,50,000             1,50,000             1,00,000              1,00,000            -                 5,00,000
+
+
+New Software Purchase for the prototype development
+-                  -                  2,00,000              2,00,000            -                 4,00,000
+Testing and Trial Cost               -                  -                  -                   50,000             50,000             1,00,000
+
+
+Pre Development Marketing and Sales Promotions
+40,000              40,000              60,000               80,000             80,000             3,00,000
+Manpower Cost for initial Stage         60,000              60,000              80,000               1,00,000            1,00,000            4,00,000
+TOTAL                         3,50,000             3,30,000             5,10,000              5,80,000            2,30,000            20,00,000
+
+Our Team       TUSHAR KANTA MOHANTY
+DIRECTOR
+He is the director of our company, and his vast experience in the same field benefits the company. He is contributing to the management of the organization with the aid of his leadership skills and vibrant personality.
+
+He  possesses  strong  communication  skills,  great  leadership  acumen,  and  unrivaled enthusiasm for the organization and its people.
+
+
+SOUMYA RANJAN BEHERA DIRECTOR
+He has the ability to apply strategic thinking to make innovative, long-term decisions that advance the objectives of the business. In spite of difficult circumstances, he maintains integrity to win stakeholders' trust. He is lending his expertise to the business. His leadership and boundless enthusiasm steer the organization.
+
+Office Address
+C/O SMT.PARVATI MOHANTY 1ST FLOOR
+NILIABAG SUPPLY Balasore RS Baleshwar Sadar Baleswar
+Odisha - 756001, INDIA
+
+Phone & Mobile
+91+ 9938208120
+Email Address
+mohantytushar77@gmail.com
+Website
+www.carebook.in

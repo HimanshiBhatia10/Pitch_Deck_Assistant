@@ -1,0 +1,211 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+*{
+          margin-right: 0;
+          padding: 0;
+          box-sizing: border-box;
+          font-family: 'Poppins', sans-serif;
+}
+
+section
+{
+  min-height: 100vh;
+}
+
+body{
+          background: #222121;
+          color: #ededed;
+}
+
+.header{
+          position: fixed;
+          top: 0;
+          left: 0;
+          width: 100%;
+          padding: 20px 10%;
+          background: transparent;
+          display: flex;
+          justify-content: space-between;
+          align-items: center;
+          z-index: 100;
+}
+
+.logo {
+          font-size: 25px;
+          color: #ededed;
+          text-decoration: none;
+          font-weight: 600;
+}
+
+.navbar a{
+          font-size: 18px;
+          color: #ededed;
+          text-decoration: none;
+          font-weight: 500;
+          margin-left: 35px;
+          transition: .3s;
+}
+
+.navbar a:hover,
+.navbar a.active{
+          color: #02a6ad;
+}
+
+.home-content{
+           /* This is the visible height area.*/
+          max-width: 1100px;
+          width: 100%;
+          margin: auto;
+          margin-left: 100px;
+          
+}
+
+
+.padd-15
+{
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.row
+{
+  display: flex;
+  flex-wrap: wrap;
+  position: relative;
+}
+.home-content .left-section
+{
+  left: -60px;
+  flex: 0 0 50%;
+  max-width: 50%;
+  position: relative;         
+}
+
+.home-content .right-section 
+{
+  top: -30px;
+  left: -120px;
+  flex: 0 0 50%;
+  position: relative;
+  white-space: nowrap;
+  max-width: 50%;
+}
+
+.home
+{
+  min-height: 100vh;
+  display: flex;
+}
+
+.right-section h1
+{
+  transform: translate(30%, 0);
+  text-align: center;
+  position: relative;
+  font-size: 56px;
+  font-weight: 700;
+}
+
+.right-section h3 {
+  transform: translate(0, -80%);
+  text-align: center;
+  font-size: 32px;
+  font-weight: 700;
+  color: #02a6ad;
+}
+
+.home-content .btn-box{
+  transform: translate(75%, -30%);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width: 345px;
+  height: 145px;       
+}
+
+.btn-box input
+{
+  height: 100px;
+}
+
+.btn-box input[type="file"]
+{
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 5px;
+  padding: 10px;
+  padding-left: 150px;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-size: 1rem;
+  width: auto;
+}
+
+.btn-box input[type="file"]::file-selector-button {
+  background-color: white;
+  display: block;
+  color: #02a6ad;
+  border: none;
+  cursor: pointer;
+  width:  200px;
+  height: 50px;
+  border-radius: 5px;
+  padding-left: 60px;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.btn-box input[type="file"]::file-selector-button:hover {
+  background-color: #026e71;
+}
+
+.btn-box span
+{
+  margin-bottom: 20px;
+}
+
+.btn-box .upload-btn {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  width: 150px;
+  height: 50px;
+  background: #02a6ad;
+  border: 2px solid #02a6ad;
+  border-radius: 8px;
+  font-size: 19px;
+  color: #026e71;
+  font-weight: 600;
+  letter-spacing: 1px;
+  text-decoration: none; /* corrected from 600 to none */
+}
+
+.btn-box .upload-btn:nth-child(2) {
+  background: transparent;
+  color: #02a6ad;
+}
+
+
+.output{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.output h2
+{
+  font-size: 28px;
+}
+
+.Pitch_deck_name
+{
+  font-size: 56px;
+}
+.styled-button
+{
+  background-color: #02a6ad;
+  color: #ededed;
+}
